@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Drawing</string>
+    <string name="action_settings">Settings</string>
+    <string name="clear_button_text">Clear</string>
+    <string name="mode_button_text_simple">Simple</string>
+    <string name="mode_button_text_advanced">Advanced</string>
+</resources>
